@@ -1,4 +1,4 @@
-### Hi there 👋
+### Student at <a herf="https://unc.nc">University Of New Caledonia</a>
 
 <!--
 **NicolasMarieCatherine/NicolasMarieCatherine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
