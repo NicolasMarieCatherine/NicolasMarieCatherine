@@ -2,9 +2,9 @@
  [![MasterHead](https://github.com/NicolasMarieCatherine/NicolasMarieCatherine/blob/main/header.png)](https://github.com/NicolasMarieCatherine)
  <!-- <img align="right" alt="Coding" width="400" src="add your link here"> -->
 
-# <p align="center"><i>🎓 Student from <a href="https://unc.nc">University Of New Caledonia</a></i></p>
+# <p align="center"><i>🎓 Student from <a href="https://unc.nc">University Of New Caledonia</a></i> 🎓</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+,;Quick+view+of+my+stats+...+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+,;3eme+année+license+informatique)](https://git.io/typing-svg)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMarieCatherine&theme=radical&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
